@@ -94,12 +94,16 @@ body {
 }
 
 .B {
+    padding: 20px;
     height: 8vh;
     background-color: rgb(241, 9, 40);
     color: white;
     border: none;
     font-size: 20px;
     font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 /* # */
@@ -110,7 +114,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 10vh;
+    margin-top: 30vh;
     margin-bottom: 5vh;
 }
 

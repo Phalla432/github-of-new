@@ -94,7 +94,7 @@ body {
 }
 
 .B {
-    height: 8vh;
+    padding: 20px;
     background-color: rgb(241, 9, 40);
     color: white;
     border: none;
@@ -110,7 +110,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    margin-top: 10vh;
+    margin-top: 30vh;
 }
 
 .body-one {
