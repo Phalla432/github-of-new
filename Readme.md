@@ -70,10 +70,10 @@ nav {
 
 ### Link
 
-CSS framework [Tailwindcss](https://www.youtube.com/)
+<!-- CSS framework [Tailwindcss](https://www.youtube.com/) -->
 
 ## Image dashboard
-![Dashboard](mora.png)
+![Dashboard](./image.png)
 
 
 ## Badge 
