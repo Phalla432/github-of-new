@@ -28,8 +28,9 @@
 
 | id | name | age | phone |
 |----|------|-----|-------|
-| 01 | rika | 018 | 12345 |
-| 02 | pika | 018 | 12346 |
+| 01 | Phalla | 016 | 12345 |
+| 02 | Makara | 017 | 12347 |
+| 03 | Sokny | 018 | 12346 |
 
 
 ## Block quote 
@@ -46,8 +47,8 @@
 
 ## Code multiple line
 ```html
-<h1> hello word </h1>
-<p>this is para</p>
+<h1> Hello word </h1>
+<p>This is our Website that you can use what and when -ever you want.</p>
 ```
 ```python
 for i in range (10):
@@ -60,10 +61,12 @@ nav {
 }
 ```
 ## Check list
-- [x] home page
-- [x] about page
-- [ ] contact page
-- [ ] service page
+- [x] Laptop page
+- [x] Tablet page
+- [x] Desktop page
+- [x] Accesseries page
+- [x] Support page
+- [x] About us page
 
 ### Link
 
