@@ -11,9 +11,9 @@
   Delete text
 
 ## List
-- one
-- two
-- three
+- header 
+- table
+- navigation
     - other
     - other 
 ---
@@ -72,11 +72,11 @@ nav {
 
 <!-- CSS framework [Tailwindcss](https://www.youtube.com/) -->
 
-## Image dashboard
+## Tablet page
 ![Dashboard](./image.png)
 
+## About us page
 
-## Badge 
+![Dashboard](./image%20copy.png)
 
-![website](https://img.shields.io/badge/Visit-Website-blue)(https://i.pinimg.com/)
-
+### Thanks for supporting our Website.
